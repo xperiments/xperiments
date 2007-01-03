@@ -1,0 +1,1 @@
+/** * @author pedro */class com.xperiments.GoogleTest {		private static var instance : GoogleTest;		/**	 * @return singleton instance of GoogleTest	 */	public static function getInstance() : GoogleTest {		if (instance == null)			instance = new GoogleTest();		return instance;	}		private function GoogleTest() {			}}
