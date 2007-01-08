@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>TexEditorComponentAS2</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.pf.fdt.IncrementalProjectBuilder1</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.pf.fdt.FlashNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>bitComponentSet</name>
+			<type>2</type>
+			<location>F:/PROJECTS_API/AS2/bitComponentSet/src</location>
+		</link>
+		<link>
+			<name>xperiments</name>
+			<type>2</type>
+			<location>F:/PROJECTS_API/AS2/xperiments/src</location>
+		</link>
+		<link>
+			<name>core</name>
+			<type>2</type>
+			<location>F:/PROJECTS_API/AS2/f8core</location>
+		</link>
+		<link>
+			<name>asapframework</name>
+			<type>2</type>
+			<location>F:/PROJECTS_API/AS2/asapframework/src</location>
+		</link>
+	</linkedResources>
+</projectDescription>
